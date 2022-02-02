@@ -3,10 +3,10 @@ export const homeObjOne = {
     lightBg: true,
     lightText: false,
     lightTextDesc: false,
-    topLine: "Nosotros",
+    topLine: "¿Quiénes somos?",
     headLine: "DM Servicios",
     description: 
-    "Historia",
+    "Somos una empresa enfocada en proporcionar soluciones integrales de Ingenieria Electrica. Nuestra misión es prestar servicios integrales en el ramo eléctrico con versatilidad, calidad y experiencia para satisfacer los requisitosde nuestros clientes. Tenemos como visión proyectar nuestros servicios como una alternativa sólida, siendo una empresa comprometida, innovadora y rentable con personal altamente calificado.",
     buttonLabel: "Ve más",
     imgStart: true, //Para cambiar el orden de las columnas
     img: require("../../Imagenes/logo.jpg").default,
@@ -24,7 +24,7 @@ export const homeObjTwo = {
     topLine: "Clientes",
     headLine: "Conoce nuestro clientes",
     description: 
-    "Hemos trabajado con distintas empresas",
+    "Hemos trabajado con distintas empresas entre las que se encuentran: EPS CFE Distribucion, Guardia Nacional, Ingeniería Eléctrica y Civil, Secretaria de Defensa Nacional, Ingeniería Eléctrica y Arquitectura VELRO S.A. de C.V.",
     buttonLabel: "Contactanos",
     imgStart: false, //Para cambiar el orden de las columnas
     img: require("../../Imagenes/construccionSVG.svg").default,
